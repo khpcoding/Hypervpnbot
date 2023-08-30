@@ -1,0 +1,14 @@
+{
+    "db": {
+        "db_name": "admin",
+        "user": "admin",
+        "pass": "9motimfgk4m52tg",
+        "host": "mongodb-fcq-service",
+        "port": 80
+    },
+    "bot_token": "6573613159:AAEfaJPpWdcyX8LnsyufrZ48uBdjQESiHqU",
+    "bot_id": "@hyperrshoopbot",
+    "sponsor_channel": "@Hypeershop",
+    "domain": "https://hyper.runflare.run",
+    "port": 3000
+}
