@@ -2,13 +2,13 @@
     "db": {
         "db_name": "admin",
         "user": "admin",
-        "pass": "9motimfgk4m52tg",
+        "pass": "tvm23wg5wgx6kna",
         "host": "mongodb-fcq-service",
         "port": 80
     },
-    "bot_token": "6573613159:AAEfaJPpWdcyX8LnsyufrZ48uBdjQESiHqU",
-    "bot_id": "@hyperrshoopbot",
-    "sponsor_channel": "@Hypeershop",
-    "domain": "https://hyper.runflare.run",
+    "bot_token": "6556462572:AAEl9rLNj93bo7SuCILk7DpMJkaFfTl5YJo",
+    "bot_id": "@hypertestttttbot",
+    "sponsor_channel": "@hypertestttttbot",
+    "domain": "https://newhyper.runflare.run",
     "port": 3000
 }
